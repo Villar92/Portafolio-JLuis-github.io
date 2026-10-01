@@ -33,7 +33,7 @@ export const UplaLogo: React.FC<UplaLogoProps> = ({
       >
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
-          src="/logo-upla-transparent.png"
+          src="https://github.com/Villar92/Portafolio-JLuis-github.io/raw/main/public/logo-upla-transparent.png?raw=true"
           alt="Logotipo Oficial Universidad Peruana Los Andes - UPLA"
           className={`${sizeMap[size]} object-contain drop-shadow-sm`}
         />
